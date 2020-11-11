@@ -1,1 +1,2 @@
-setuptools~=41.2.0
+setuptools>=41.2.0
+discord.py>=1.3

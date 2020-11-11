@@ -8,7 +8,7 @@ with open('requirements.txt') as f:
 
 setup(
 	name='dpytils',
-	version="0.0.1",
+	version="0.0.4",
 	packages=['dpytils'],
 	url='https://github.com/TymanWasTaken/dpytils',
 	license='MIT License',
