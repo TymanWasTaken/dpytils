@@ -11,7 +11,7 @@ setup(
 	version="0.0.1",
 	packages=['dpytils'],
 	url='https://github.com/TymanWasTaken/dpytils',
-	license='Apache License 2.0',
+	license='MIT License',
 	author='Tyman',
 	description='A package with all sorts of utilities for discord.py.',
 	long_description=readme,
